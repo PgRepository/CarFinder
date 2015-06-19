@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="ant-build" path="src"/>
+	<classpathentry kind="var" path="JRE_LIB" rootpath="JRE_SRCROOT" sourcepath="JRE_SRC"/>
+	<classpathentry kind="lib" path="/Users/fafu/Documents/workspace/Kitten/lib/bcel-5.2.jar"/>
+	<classpathentry kind="lib" path="/Users/fafu/Documents/workspace/Kitten/lib/java_cup.jar"/>
+	<classpathentry kind="lib" path="/Users/fafu/Documents/workspace/Kitten/lib/jlex.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
